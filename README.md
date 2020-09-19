@@ -1,1 +1,2 @@
-# simple-input-data-python
+input data sederhana python.
+dibuat menggunakan aplikasi pycharm.
